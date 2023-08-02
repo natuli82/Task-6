@@ -1,0 +1,18 @@
+*{
+    list-style-type: none;
+}
+
+.Header {
+    font-size: 54;
+    font-family: inter;
+}
+ul{
+    display: flex;
+    padding: 0;
+}
+ul li .middle{
+    margin: 63px;
+}
+.container {
+    display: flex;
+}
